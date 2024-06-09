@@ -1,3 +1,5 @@
+#Crie um programa que calcule a area do rentagulo#
+
 a = int(input('Digite o valor da base: '))
 b = int(input('Digite o valor da Altura: '))
 
